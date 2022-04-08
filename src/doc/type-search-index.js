@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"csvreader","l":"Campionato"},{"p":"csvreader","l":"Partita"},{"p":"csvreader","l":"Squadra"},{"p":"csvreader","l":"Test"}];updateSearchResults();
